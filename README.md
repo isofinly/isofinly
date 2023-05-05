@@ -7,10 +7,8 @@
  
 </div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isofinly&layout=compact&theme=codeSTACKr&show_icons=true&langs_count=8" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isofinly&size_weight=0.5&count_weight=0.5&layout=compact&theme=codeSTACKr&show_icons=true&langs_count=8" />
 </a>
-<br>
-<br>
 <br>
 <br>
 <br>
