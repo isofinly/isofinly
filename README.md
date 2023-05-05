@@ -15,6 +15,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 | Wanna study: <br/> <img align="center" src="https://media.tenor.com/P3YCogucobMAAAAC/felix-rezero.gif" height="256" alt="literally me"/> | I know (a lil bit) <br /> <img align="center" src="https://media.tenor.com/xfLp51yE5SgAAAAC/ferriss-felix-re-zero.gif" width="256" alt="literally me too"/> |
 |--|--|
