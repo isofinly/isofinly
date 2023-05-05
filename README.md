@@ -29,6 +29,7 @@
 |  | ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql&logoColor=89CFF0) |
 | | ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)|
 | | ![NodeJS](https://img.shields.io/badge/Node.js-000?&logo=node.js)|
+| | ![Next.Js](https://img.shields.io/badge/Next.Js-000?&logo=Next.Js) |
 | | ![HTML](https://img.shields.io/badge/HTML-000?&logo=HTML5) |
 | | ![CSS](https://img.shields.io/badge/CSS-000?&logo=CSS3) |
 | | ![LaTex](https://img.shields.io/badge/LaTex-000?&logo=LaTex) |
