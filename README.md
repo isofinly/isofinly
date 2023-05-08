@@ -18,7 +18,7 @@
 <br>
 <br>
 
-| Wanna study: <br/>  <a href="#"> <img align="center" src="https://media.tenor.com/P3YCogucobMAAAAC/felix-rezero.gif" height="256" alt="literally me"/>  <a/> | I know (a lil bit) <br /> <a href="#"> <img align="center" src="https://media.tenor.com/xfLp51yE5SgAAAAC/ferriss-felix-re-zero.gif" width="256" alt="literally me too"/>  <a/>|
+| Wanna study: <br/>  <a href="#"> <img align="center" src="https://media.tenor.com/P3YCogucobMAAAAC/felix-rezero.gif" height="256" width="256" alt="literally me"/>  <a/> | I know (a lil bit) <br /> <a href="#"> <img align="center" src="https://media.tenor.com/xfLp51yE5SgAAAAC/ferriss-felix-re-zero.gif" width="256" height="256" alt="literally me too"/>  <a/>|
 |--|--|
 | ![Go](https://img.shields.io/badge/-Go-000?&logo=Go&logoColor=00FFFF) | ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) | 
 | ![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron) | ![React](https://img.shields.io/badge/-React-000?&logo=React)| 
