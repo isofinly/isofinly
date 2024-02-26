@@ -28,7 +28,7 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=gitlab,docker,kubernetes,ghactions" alt="skills logos" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=redis,mongodb,prisma" alt="skills logos" />
+    <img src="https://skillicons.dev/icons?i=redis,mongodb,postgresql,prisma" alt="skills logos" />
     <br/>
     <img src="https://skillicons.dev/icons?i=next,react" alt="skills logos" />
   </p>   
