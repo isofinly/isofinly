@@ -30,7 +30,7 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=redis,mongodb,postgresql,prisma" alt="skills logos" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=next,react" alt="skills logos" />
+    <img src="https://skillicons.dev/icons?i=next,react,tailwindcss,tauri" alt="skills logos" />
   </p>   
  </div>
 </div>
