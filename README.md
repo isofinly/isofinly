@@ -22,11 +22,13 @@
  <div align="right">
 
  <p align="left"> 
-   <img src="https://skillicons.dev/icons?i=nodejs,js,ts,express" alt="skills logos" />
+   <img src="https://skillicons.dev/icons?i=nodejs,js,ts,bun" alt="skills logos" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=rust,go,java,c" alt="skills logos" />
+    <img src="https://skillicons.dev/icons?i=rust,go,c,java" alt="skills logos" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ghactions" alt="skills logos" />
+    <img src="https://skillicons.dev/icons?i=gitlab,docker,kubernetes,ghactions" alt="skills logos" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=redis,mongodb,prisma" alt="skills logos" />
     <br/>
     <img src="https://skillicons.dev/icons?i=next,react" alt="skills logos" />
   </p>   
